@@ -1,5 +1,5 @@
 # PyTorch-Deep-Learning
-PyTorch for Deep Learning: Certification course by Jovian.ml
+PyTorch for Deep Learning: PyTorch: Zero to GANs is an FREE online certification course that provides a coding first introduction to deep learning using the PyTorch framework.
 
 Task 1 : All about torch.tensor , introduction to tensors and PyTorch documentation
 
